@@ -25,7 +25,7 @@ Extensões:
 ## Instalação
 
 ### Instalação da Extensão Customize UI++
-Primeiro, assegure-se de que o VSCode esteja instalado. Então, instale a extensão Customize UI++ diretamente do marketplace do VSCode. Isso é essencial para desbloquear os poderes estéticos que estamos prestes a aplicar.
+Instale a extensão Customize UI++ diretamente do marketplace do VSCode. Isso é essencial para desbloquear os poderes estéticos que estamos prestes a aplicar.
 
 https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
 
