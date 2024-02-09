@@ -15,8 +15,8 @@ Antes de mais nada, deixe seus olhos serem o juiz. Aqui estão algumas imagens d
 ## Dependências
 
 Fontes:
-- JetBrainsMono Nerd Font
-- Inter
+- JetBrainsMono Nerd Font: https://www.nerdfonts.com/
+- Inter: https://fonts.google.com/specimen/Inter
   
 Extensões:
 - Minimalist Product Icon Theme: https://marketplace.visualstudio.com/items?itemName=ElAnandKumar.el-vsc-product-icon-theme
