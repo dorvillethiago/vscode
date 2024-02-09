@@ -46,7 +46,7 @@
     "source.fixAll.eslint": "explicit"
   },
   "editor.semanticHighlighting.enabled": false,
-  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.fontFamily": "JetBrainsMono Nerd Font, Monospace",
   "gitlens.codeLens.authors.enabled": false,
   "editor.tabSize": 2,
   "security.workspace.trust.untrustedFiles": "newWindow",
