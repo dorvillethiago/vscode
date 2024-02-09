@@ -1,5 +1,5 @@
 # Que tal transformar esse seu VsCode feioso em algo utilizável?
-Imagina a que vocẽ está codando em um ambiente como esse
+Imagina que vocẽ está codando em um ambiente como esse
 
 ![image](https://github.com/dorvillethiago/vscode/assets/103829961/4b973689-1a8c-498a-a47f-561747e441d5)
 
