@@ -14,7 +14,9 @@ Antes de mais nada, deixe seus olhos serem o juiz. Aqui estão algumas imagens d
 
 ## Dependências
 
-Fontes: JetBrainsMono Nerd Font, Inter
+Fontes:
+- JetBrainsMono Nerd Font
+- Inter
 Extensões:
 - Minimalist Product Icon Theme: https://marketplace.visualstudio.com/items?itemName=ElAnandKumar.el-vsc-product-icon-theme
 - Symbols: https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
