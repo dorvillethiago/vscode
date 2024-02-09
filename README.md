@@ -30,9 +30,14 @@ Instale a extensão Customize UI++ diretamente do marketplace do VSCode. Isso é
 https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
 
 ### Faça clone do repositório
-`git clone https://github.com/dorvillethiago/vscode`
+```bash
+git clone https://github.com/dorvillethiago/vscode
+```
+
 #### ou clone direto para o caminho do vscode (apenas para linux)
-`curl https://raw.githubusercontent.com/dorvillethiago/vscode/main/settings.json > ~/.config/Code/User/settings.json`
+```bash
+curl https://raw.githubusercontent.com/dorvillethiago/vscode/main/settings.json > ~/.config/Code/User/settings.json
+```
 
 ### Libere a Magia
 Copie o arquivo settings.py do repositório clonado para o diretório de configuração do seu VSCode. Dependendo do seu sistema operacional, o caminho pode ser:
