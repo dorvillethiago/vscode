@@ -40,7 +40,7 @@ curl https://raw.githubusercontent.com/dorvillethiago/vscode/main/settings.json 
 ```
 
 ### Libere a Magia
-Copie o arquivo settings.py do repositório clonado para o diretório de configuração do seu VSCode. Dependendo do seu sistema operacional, o caminho pode ser:
+Copie o arquivo settings.json do repositório clonado para o diretório de configuração do seu VSCode. Dependendo do seu sistema operacional, o caminho pode ser:
 
 - Windows: `C:\Users%USERNAME%\AppData\Roaming\Code\User\`
 - macOS: `~/Library/Application Support/Code/User/`
