@@ -35,6 +35,6 @@ https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
 ### Libere a Magia
 Copie o arquivo settings.py do repositório clonado para o diretório de configuração do seu VSCode. Dependendo do seu sistema operacional, o caminho pode ser:
 
-- Windows: `C:\Users\<SeuNomeDeUsuário>\AppData\Roaming\Code\User\`
+- Windows: `C:\Users%USERNAME%\AppData\Roaming\Code\User\`
 - macOS: `~/Library/Application Support/Code/User/`
 - Linux: `~/.config/Code/User/`
