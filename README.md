@@ -24,19 +24,18 @@ Extensões:
 
 ## Instalação
 
-### Instalação da Extensão Customize UI++
+### Customize UI++
 Instale a extensão Customize UI++ diretamente do marketplace do VSCode. Isso é essencial para desbloquear os poderes estéticos que estamos prestes a aplicar.
 
 https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
 
+### Ative a extensão Customize UI++
+1. Aperte `CTRL` + `SHIFT` + `P` para abrir o menu de ações do VSCode
+2. Digite `Enable Apc Extension`
+
 ### Faça clone do repositório
 ```bash
 git clone https://github.com/dorvillethiago/vscode
-```
-
-#### ou clone direto para o caminho do vscode (apenas para linux)
-```bash
-curl https://raw.githubusercontent.com/dorvillethiago/vscode/main/settings.json > ~/.config/Code/User/settings.json
 ```
 
 ### Libere a Magia
@@ -45,3 +44,7 @@ Copie o arquivo settings.json do repositório clonado para o diretório de confi
 - Windows: `C:\Users%USERNAME%\AppData\Roaming\Code\User\`
 - macOS: `~/Library/Application Support/Code/User/`
 - Linux: `~/.config/Code/User/`
+
+### Finalizando
+1. Reinicie seu VSCode
+2. Parabéns! Agora você pode se gabar que tem um editor mais bonitinho que o do seu amigo.
