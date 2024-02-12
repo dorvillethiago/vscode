@@ -16,7 +16,6 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.suggestSelection": "first",
   "explorer.confirmDelete": false,
-  "gitlens.codeLens.recentChange.enabled": false,
   "terminal.integrated.showExitAlert": false,
   "[prisma]": {
     "editor.formatOnSave": true
@@ -92,10 +91,6 @@
   "apc.listRow": {
     "height": 24
   },
-  "apc.electron": {
-    "frame": false,
-    "titleBarStyle": "hidden"
-  },
   "apc.font.family": "Inter",
   "apc.stylesheet": {
     ".title-label": "color: white;",
@@ -116,7 +111,7 @@
   "window.zoomLevel": 1,
   "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.layoutControl.enabled": false,
-  "window.menuBarVisibility": "compact",
+  "window.menuBarVisibility": "hidden",
   "workbench.productIconTheme": "el-vsc-v1-icons",
   "editor.minimap.enabled": false,
   "editor.cursorBlinking": "phase",
