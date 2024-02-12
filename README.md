@@ -48,3 +48,5 @@ Copie o arquivo settings.json do repositório clonado para o diretório de confi
 ### Finalizando
 1. Reinicie seu VSCode
 2. Parabéns! Agora você pode se gabar que tem um editor mais bonitinho que o do seu amigo.
+
+_Ao abrir o seu vscode você verá o editor aberto porém sem o sidebar, uma dica! aperta `CTIRL` + `B` pra abrir o sidebar_ :)
