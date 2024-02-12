@@ -41,7 +41,7 @@ git clone https://github.com/dorvillethiago/vscode
 ### Substitua o arquivo settings.json
 Copie o arquivo settings.json do repositório clonado para o diretório de configuração do seu VSCode. Dependendo do seu sistema operacional, o caminho pode ser:
 
-- Windows: `C:\Users%USERNAME%\AppData\Roaming\Code\User\`
+- Windows: `C:\Users\%USERNAME%\AppData\Roaming\Code\User\`
 - macOS: `~/Library/Application Support/Code/User/`
 - Linux: `~/.config/Code/User/`
 
