@@ -1,5 +1,5 @@
-# Que tal transformar esse seu VSCode feioso em algo utilizável?
-Imagina que vocẽ está codando em um ambiente como este:
+# Que tal transformar esse seu VSCode entediante em algo que dê orgulho de codar?
+Imagine que vocẽ está programando em um ambiente como este:
 
 ![image](https://github.com/dorvillethiago/vscode/assets/103829961/4b973689-1a8c-498a-a47f-561747e441d5)
 
